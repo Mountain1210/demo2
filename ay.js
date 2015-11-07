@@ -2,7 +2,7 @@
 * @Author: anchen
 * @Date:   2015-09-26 08:04:37
 * @Last Modified by:   anchen
-* @Last Modified time: 2015-11-07 15:53:56
+* @Last Modified time: 2015-11-07 15:59:50
 */
 
 console.log([]==false)
@@ -24,3 +24,4 @@ console.log("1234567900000");
 console.log("123456790000011111111");
 console.log("1234567900000222222222222");
 console.log("1234567900000333333333333333333333333");
+console.log("123456790000033333333333333333333333344444444444444455555");
