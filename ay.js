@@ -2,7 +2,7 @@
 * @Author: anchen
 * @Date:   2015-09-26 08:04:37
 * @Last Modified by:   anchen
-* @Last Modified time: 2015-11-07 14:15:39
+* @Last Modified time: 2015-11-07 15:46:40
 */
 
 console.log([]==false)
@@ -22,3 +22,4 @@ console.log(NaN==NaN);
 console.log("12345678");
 console.log("1234567900000");
 console.log("123456790000011111111");
+console.log("1234567900000222222222222");
