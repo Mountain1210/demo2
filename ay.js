@@ -17,7 +17,7 @@ console.log(111&&222)
 var a;
 console.log(typeof a);
 // console.log(b);
-
+//
 console.log(NaN==NaN);
 console.log("12345678");
 console.log("1234567900000");
