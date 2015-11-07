@@ -21,3 +21,4 @@ console.log(typeof a);
 console.log(NaN==NaN);
 console.log("12345678");
 console.log("1234567900000");
+console.log("123456790000011111111");
