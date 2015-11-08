@@ -17,7 +17,7 @@ console.log(''
 var a;
 console.log(typeof a);
 // console.log(b);
-//wangwei   3   a  b
+//wangwei   3   a  b  d 
 console.log(NaN==NaN);
 console.log("12345678");
 console.log("1234567900000");
