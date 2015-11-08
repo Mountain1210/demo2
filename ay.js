@@ -17,7 +17,11 @@ console.log(''
 var a;
 console.log(typeof a);
 // console.log(b);
+<<<<<<< HEAD
 //wangwei 1
+=======
+//wangwei   2
+>>>>>>> origin/test
 console.log(NaN==NaN);
 console.log("12345678");
 console.log("1234567900000");
